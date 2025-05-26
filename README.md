@@ -61,6 +61,7 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0371.gif" width="1920"/>
 
+
 <!-- Contacts -->
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/josinaldo-junior/)
