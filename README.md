@@ -69,9 +69,8 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 <!-- GitHub Stats -->
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosinaldoGJunior&layout=donut&theme=radical" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosinaldoGJunior&theme=merko" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosinaldoGJunior&layout=donut&theme=radical&cache_seconds=300" alt="Top Languages" /><br>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosinaldoGJunior&theme=merko&cache_seconds=300" alt="GitHub Activity Graph" />
 </p>
-
 
